@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "03df8cc5b8eb0e9d",
+        "id": "c996bf1fdd3763bb",
         "type": "tabs",
         "children": [
           {
-            "id": "af588c0d5bc0888f",
+            "id": "2db3f0b808c54e74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Lessonwork/Materials.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Materials"
+              "title": "New tab"
             }
           }
         ]
@@ -181,47 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "bcfbfcc274a800c1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1462917f7646bfa1",
-        "type": "window",
-        "children": [
-          {
-            "id": "d30a926d32c5f529",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "141ec5389f092364",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Materials 2025-11-12 13.01.06.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Materials 2025-11-12 13.01.06.excalidraw"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 490,
-        "y": 52,
-        "width": 1025,
-        "height": 801,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "af588c0d5bc0888f",
+  "active": "2db3f0b808c54e74",
   "lastOpenFiles": [
-    "Excalidraw/Materials 2025-11-12 13.01.06.excalidraw.md",
+    "Physics/Lessonwork/Energy Formulae.md",
     "Physics/Lessonwork/Materials.md",
+    "Excalidraw/Materials 2025-11-12 13.01.06.excalidraw.md",
     "Chemistry/Lessonwork/Electron Configuration.md",
     "Physics/Lessonwork/Momentum, Collisions, and Explosions.md",
     "Excalidraw/Untitled 2025-11-07 10.57.37.excalidraw.md",
@@ -246,7 +206,6 @@
     "Further Maths/Lessonwork/Argument Form of Complex Numbers.md",
     "Excalidraw/Argument Form of Complex Numbers 2025-11-03 13.47.42.excalidraw.md",
     "Maths/Lessonwork/117 - Coordinate Geometry.md",
-    "Excalidraw/117 - Coordinate Geometry 2025-10-24 13.14.14.excalidraw.md",
     "Further Maths/Lessonwork",
     "Pasted Image 20251022091537_581.png",
     "Pasted image 20251022091402.png",
