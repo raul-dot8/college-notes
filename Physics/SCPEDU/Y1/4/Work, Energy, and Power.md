@@ -1,0 +1,1 @@
+![[Work, Energy, and Power 2025-10-24 10.36.47.excalidraw]]

@@ -1,0 +1,1 @@
+![[Momentum 2025-11-05 13.48.52.excalidraw]]

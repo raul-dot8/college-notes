@@ -1,0 +1,1 @@
+![[Forces In Motion 2025-10-17 10.45.33.excalidraw]]

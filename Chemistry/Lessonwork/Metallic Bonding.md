@@ -1,0 +1,3 @@
+The strong electrostatic force of attraction between a lattice of positive metal ions and a 'sea' of delocalised electrons.
+When drawn there must be at least three layers, and electrons should be roughly equal to metal ions (which are positive).
+Metals are malleable, ductile, can conduct electricity, and have high melting and boiling points because of the sea of delocalised electrons which are free to move around and will hold the atoms together strongly. Electrons also transfer heat so they do that too.

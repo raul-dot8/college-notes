@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "542303609e9cd15c",
+    "type": "split",
+    "children": [
+      {
+        "id": "03df8cc5b8eb0e9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af588c0d5bc0888f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Lessonwork/Materials.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Materials"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08730a5648d44dce",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfcd0757448eb937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "005bd98094df2319",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0f3eaba03ffbec79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0b9c8461ce88847a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58651c1090037903",
+    "type": "split",
+    "children": [
+      {
+        "id": "ded79038894cf922",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb0bd27cdb904d51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "845801a182e41b63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "cd6b7a7d2de7f0f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "08c3fbfa0d815f14",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "24a86eeb9f83af24",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Chemistry/Lessonwork/Metallic Bonding.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "floating": {
+    "id": "bcfbfcc274a800c1",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1462917f7646bfa1",
+        "type": "window",
+        "children": [
+          {
+            "id": "d30a926d32c5f529",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "141ec5389f092364",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Materials 2025-11-12 13.01.06.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Materials 2025-11-12 13.01.06.excalidraw"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 490,
+        "y": 52,
+        "width": 1025,
+        "height": 801,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "141ec5389f092364",
+  "lastOpenFiles": [
+    "Physics/Lessonwork/Materials.md",
+    "Excalidraw/Materials 2025-11-12 13.01.06.excalidraw.md",
+    "Chemistry/Lessonwork/Electron Configuration.md",
+    "Physics/Lessonwork/Momentum, Collisions, and Explosions.md",
+    "Excalidraw/Untitled 2025-11-07 10.57.37.excalidraw.md",
+    "Untitled.md",
+    "Chemistry/Lessonwork/Bond Polarity.md",
+    "Excalidraw/Complex Numbers 2025-10-20 14.05.56.excalidraw.md",
+    "Chemistry/Lessonwork/Metallic Bonding.md",
+    "Chemistry/Lessonwork/Oxidation Numbers.md",
+    "Chemistry/Lessonwork/Octet Rule.md",
+    "Physics/SCPEDU/Y1/4/Momentum.md",
+    "Excalidraw/Momentum 2025-11-05 13.48.52.excalidraw.md",
+    "1.1-Atomic-Structure-Ionisation-Energy-across-Periods.png",
+    "Excalidraw/Momentum, Collisions, and Explosions 2025-11-05 13.04.02.excalidraw.md",
+    "Further Maths/Lessonwork/1.06.md",
+    "Excalidraw/1.06 2025-11-05 10.54.30.excalidraw.md",
+    "Excalidraw/Momentum, Collisions, and Explosions 2025-11-04 15.27.35.excalidraw.md",
+    "Excalidraw/Momentum, Collisions, and Explosions 2025-11-04 14.41.24.excalidraw.md",
+    "Chemistry/Lessonwork/Redox Reactions.md",
+    "Chemistry/Lessonwork/Titration Calculation Practice.md",
+    "Chemistry/Lessonwork/Ionisation Energy - Introduction.md",
+    "Chemistry/Lessonwork/Recap - Ionic and Covalent Bonding.md",
+    "Further Maths/Lessonwork/Argument Form of Complex Numbers.md",
+    "Excalidraw/Argument Form of Complex Numbers 2025-11-03 13.47.42.excalidraw.md",
+    "Maths/Lessonwork/117 - Coordinate Geometry.md",
+    "Excalidraw/117 - Coordinate Geometry 2025-10-24 13.14.14.excalidraw.md",
+    "Further Maths/Lessonwork",
+    "Pasted Image 20251022091537_581.png",
+    "Pasted image 20251022091402.png",
+    "Pasted image 20251021131100.png",
+    "Physics/Homework",
+    "Physics/Lessonwork/Untitled",
+    "Physics/Lessonwork",
+    "Physics/SCPEDU/Excercises",
+    "Further Maths",
+    "Physics/SCPEDU/Y1/4",
+    "Physics/SCPEDU/Y1",
+    "Physics/SCPEDU",
+    "Physics"
+  ]
+}
