@@ -181,11 +181,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "005bd98094df2319",
+  "active": "ffc30eeed7a07abb",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Physics/Checklist of Success.md",
+    "README.md",
     "New Text Document.txt",
     "Physics/Lessonwork/Energy Formulae.md",
-    "Physics/Checklist of Success.md",
     "Physics/Lessonwork/Materials.md",
     "Excalidraw/Materials 2025-11-12 13.01.06.excalidraw.md",
     "Physics/Lessonwork/Momentum, Collisions, and Explosions.md",
@@ -209,7 +211,6 @@
     "Excalidraw/Momentum, Collisions, and Explosions 2025-11-04 14.41.24.excalidraw.md",
     "Chemistry/Lessonwork/Redox Reactions.md",
     "Chemistry/Lessonwork/Titration Calculation Practice.md",
-    "Chemistry/Lessonwork/Ionisation Energy - Introduction.md",
     "Further Maths/Lessonwork",
     "Pasted Image 20251022091537_581.png",
     "Pasted image 20251022091402.png",
@@ -221,7 +222,6 @@
     "Further Maths",
     "Physics/SCPEDU/Y1/4",
     "Physics/SCPEDU/Y1",
-    "Physics/SCPEDU",
-    "Physics"
+    "Physics/SCPEDU"
   ]
 }
