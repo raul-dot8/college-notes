@@ -1,8 +1,7 @@
 - Attendance
 - Paying attention (laugh)
 - Homework
-	- 3hr HW (marked)
-	- 1hr of power (exam Qs)
-	- 30m organisation (flashcards)
+	- 3hr HW (marked) - 100%
+	- 1hr of power (exam Qs) - 0%
+	- 30m organisation (flashcards) - 50%
 - HW club if need be
-
