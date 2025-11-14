@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c996bf1fdd3763bb",
+        "id": "020caebcc6e4231e",
         "type": "tabs",
         "children": [
           {
-            "id": "2db3f0b808c54e74",
+            "id": "ffc30eeed7a07abb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Checklist of Success.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Checklist of Success"
             }
           }
         ]
@@ -177,13 +181,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2db3f0b808c54e74",
+  "active": "ffc30eeed7a07abb",
   "lastOpenFiles": [
     "Physics/Lessonwork/Energy Formulae.md",
+    "Physics/Checklist of Success.md",
     "Physics/Lessonwork/Materials.md",
     "Excalidraw/Materials 2025-11-12 13.01.06.excalidraw.md",
-    "Chemistry/Lessonwork/Electron Configuration.md",
     "Physics/Lessonwork/Momentum, Collisions, and Explosions.md",
+    "Maths/Lessonwork/114 - Graph Sketching.md",
+    "Chemistry/Lessonwork/Intermolecular Forces.md",
+    "Chemistry/Lessonwork/Electron Configuration.md",
     "Excalidraw/Untitled 2025-11-07 10.57.37.excalidraw.md",
     "Untitled.md",
     "Chemistry/Lessonwork/Bond Polarity.md",
@@ -203,9 +210,6 @@
     "Chemistry/Lessonwork/Titration Calculation Practice.md",
     "Chemistry/Lessonwork/Ionisation Energy - Introduction.md",
     "Chemistry/Lessonwork/Recap - Ionic and Covalent Bonding.md",
-    "Further Maths/Lessonwork/Argument Form of Complex Numbers.md",
-    "Excalidraw/Argument Form of Complex Numbers 2025-11-03 13.47.42.excalidraw.md",
-    "Maths/Lessonwork/117 - Coordinate Geometry.md",
     "Further Maths/Lessonwork",
     "Pasted Image 20251022091537_581.png",
     "Pasted image 20251022091402.png",
