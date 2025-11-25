@@ -11,10 +11,14 @@
             "id": "d3ab1878d6c9e5ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -193,6 +197,8 @@
   },
   "active": "d3ab1878d6c9e5ac",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "README.md",
     "Untitled.md",
     "Physics/Lessonwork/Waves.md",
     "Excalidraw/Waves 2025-11-25 15.12.10.excalidraw.md",
@@ -209,8 +215,6 @@
     "Physics/SCPEDU/Y1/4/Work, Energy, and Power.md",
     "Physics/SCPEDU/Y1/4/Forces In Equilibrium.md",
     "Physics/Checklist of Success.md",
-    "conflict-files-obsidian-git.md",
-    "README.md",
     "New Text Document.txt",
     "Physics/Lessonwork/Energy Formulae.md",
     "Physics/Lessonwork/Materials.md",
