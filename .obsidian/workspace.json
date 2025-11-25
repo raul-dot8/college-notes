@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "020caebcc6e4231e",
+        "id": "bfb87c9879a46737",
         "type": "tabs",
         "children": [
           {
-            "id": "ffc30eeed7a07abb",
+            "id": "d3ab1878d6c9e5ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Checklist of Success.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Checklist of Success"
+              "title": "New tab"
             }
           }
         ]
@@ -156,8 +152,22 @@
               "state": {
                 "file": "Chemistry/Lessonwork/Metallic Bonding.md"
               },
-              "icon": "lucide-file-signature",
-              "title": "Footnotes"
+              "icon": "lucide-ghost",
+              "title": "footnotes"
+            }
+          },
+          {
+            "id": "386fa81055f9019c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -181,35 +191,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ffc30eeed7a07abb",
+  "active": "d3ab1878d6c9e5ac",
   "lastOpenFiles": [
-    "Physics/Lessonwork/Energy Formulae.md",
+    "Untitled.md",
+    "Physics/Lessonwork/Waves.md",
+    "Excalidraw/Waves 2025-11-25 15.12.10.excalidraw.md",
+    "Physics/Homework/2025.10.20 1.1.4 Accelerated Linear Motion.md",
+    "Chemistry/Lessonwork/Titration Calculation Practice.md",
+    "Chemistry/Lessonwork/Redox Reactions.md",
+    "Chemistry/Lessonwork/Recap - Ionic and Covalent Bonding.md",
+    "Chemistry/Lessonwork/Metallic Bonding.md",
+    "Chemistry/Lessonwork/Electron Configuration.md",
+    "Physics/SCPEDU/Y1/4/Materials PPQ.md",
+    "Physics/SCPEDU/Y1/4/Forces In Motion.md",
+    "Excalidraw/Materials PPQ 2025-11-14 11.07.22.excalidraw.md",
+    "Physics/SCPEDU/Y1/4/Momentum.md",
+    "Physics/SCPEDU/Y1/4/Work, Energy, and Power.md",
+    "Physics/SCPEDU/Y1/4/Forces In Equilibrium.md",
     "Physics/Checklist of Success.md",
+    "conflict-files-obsidian-git.md",
+    "README.md",
+    "New Text Document.txt",
+    "Physics/Lessonwork/Energy Formulae.md",
     "Physics/Lessonwork/Materials.md",
     "Excalidraw/Materials 2025-11-12 13.01.06.excalidraw.md",
     "Physics/Lessonwork/Momentum, Collisions, and Explosions.md",
     "Maths/Lessonwork/114 - Graph Sketching.md",
     "Chemistry/Lessonwork/Intermolecular Forces.md",
-    "Chemistry/Lessonwork/Electron Configuration.md",
     "Excalidraw/Untitled 2025-11-07 10.57.37.excalidraw.md",
-    "Untitled.md",
     "Chemistry/Lessonwork/Bond Polarity.md",
-    "Excalidraw/Complex Numbers 2025-10-20 14.05.56.excalidraw.md",
-    "Chemistry/Lessonwork/Metallic Bonding.md",
-    "Chemistry/Lessonwork/Oxidation Numbers.md",
-    "Chemistry/Lessonwork/Octet Rule.md",
-    "Physics/SCPEDU/Y1/4/Momentum.md",
-    "Excalidraw/Momentum 2025-11-05 13.48.52.excalidraw.md",
     "1.1-Atomic-Structure-Ionisation-Energy-across-Periods.png",
-    "Excalidraw/Momentum, Collisions, and Explosions 2025-11-05 13.04.02.excalidraw.md",
-    "Further Maths/Lessonwork/1.06.md",
-    "Excalidraw/1.06 2025-11-05 10.54.30.excalidraw.md",
-    "Excalidraw/Momentum, Collisions, and Explosions 2025-11-04 15.27.35.excalidraw.md",
-    "Excalidraw/Momentum, Collisions, and Explosions 2025-11-04 14.41.24.excalidraw.md",
-    "Chemistry/Lessonwork/Redox Reactions.md",
-    "Chemistry/Lessonwork/Titration Calculation Practice.md",
-    "Chemistry/Lessonwork/Ionisation Energy - Introduction.md",
-    "Chemistry/Lessonwork/Recap - Ionic and Covalent Bonding.md",
     "Further Maths/Lessonwork",
     "Pasted Image 20251022091537_581.png",
     "Pasted image 20251022091402.png",
@@ -221,7 +232,6 @@
     "Further Maths",
     "Physics/SCPEDU/Y1/4",
     "Physics/SCPEDU/Y1",
-    "Physics/SCPEDU",
-    "Physics"
+    "Physics/SCPEDU"
   ]
 }
