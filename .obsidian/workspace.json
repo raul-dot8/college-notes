@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c196493a3a5487aa",
+        "id": "c821d19ba64cabd4",
         "type": "tabs",
         "children": [
           {
-            "id": "b188167fc62d137d",
+            "id": "0ae3600a65709805",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Lessonwork/Waves.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Waves"
             }
           }
         ]
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Physics/Lessonwork/Waves.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Waves"
             }
           },
           {
@@ -200,8 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b188167fc62d137d",
+  "active": "0ae3600a65709805",
   "lastOpenFiles": [
+    "Excalidraw/Waves 2025-11-25 15.12.10.excalidraw.md",
+    "Physics/Lessonwork/Waves.md",
     "README.md",
     "Physics/Lessonwork/Rules of Uncertainty.md",
     "Physics/Lessonwork/Newton's Laws.md",
@@ -210,8 +217,6 @@
     "Physics/Lessonwork/Energy Formulae.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
-    "Physics/Lessonwork/Waves.md",
-    "Excalidraw/Waves 2025-11-25 15.12.10.excalidraw.md",
     "Physics/Homework/2025.10.20 1.1.4 Accelerated Linear Motion.md",
     "Chemistry/Lessonwork/Titration Calculation Practice.md",
     "Chemistry/Lessonwork/Redox Reactions.md",
