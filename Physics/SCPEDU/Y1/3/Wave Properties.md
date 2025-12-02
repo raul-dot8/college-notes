@@ -1,0 +1,1 @@
+![[Wave Properties 2025-11-28 11.36.16.excalidraw]]

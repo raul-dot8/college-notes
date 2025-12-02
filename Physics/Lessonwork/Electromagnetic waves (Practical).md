@@ -1,0 +1,1 @@
+![[Electromagnetic waves (Practical) 2025-11-28 11.14.43.excalidraw]]
