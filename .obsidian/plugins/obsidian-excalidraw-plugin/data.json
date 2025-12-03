@@ -1,5 +1,5 @@
 {
-  "disableDoubleClickTextEditing": false,
+  "disableDoubleClickTextEditing": true,
   "folder": "Excalidraw",
   "cropFolder": "",
   "annotateFolder": "",
@@ -39,14 +39,14 @@
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
   "desktopUIMode": "tray",
-  "tabletUIMode": "compact",
+  "tabletUIMode": "tray",
   "iframeMatchExcalidrawTheme": true,
   "matchTheme": false,
   "matchThemeAlways": false,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
   "defaultPenMode": "never",
-  "penModeDoubleTapEraser": true,
+  "penModeDoubleTapEraser": false,
   "penModeSingleFingerPanning": true,
   "penModeCrosshairVisible": true,
   "panWithRightMouseButton": false,
@@ -109,7 +109,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.17.2",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.18.0",
     "libraryItems": []
   },
   "imageElementNotice": true,
@@ -120,7 +120,7 @@
   "mdBorderColor": "Black",
   "mdCSS": "",
   "scriptEngineSettings": {},
-  "previousRelease": "2.17.2",
+  "previousRelease": "2.18.0",
   "showReleaseNotes": true,
   "compareManifestToPluginVersion": true,
   "showNewVersionNotification": true,
@@ -480,7 +480,7 @@
   "markdownNodeOneClickEditing": false,
   "canvasImmersiveEmbed": true,
   "startupScriptPath": "",
-  "aiEnabled": true,
+  "aiEnabled": false,
   "openAIAPIToken": "",
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
   "openAIDefaultTextModelMaxTokens": 4096,
@@ -736,9 +736,9 @@
         "defaultAction": "new-tab",
         "rules": [
           {
-            "shift": false,
-            "ctrl_cmd": false,
-            "alt_opt": false,
+            "shift": true,
+            "ctrl_cmd": true,
+            "alt_opt": true,
             "meta_ctrl": false,
             "result": "active-pane"
           },
@@ -757,9 +757,9 @@
             "result": "new-pane"
           },
           {
-            "shift": true,
-            "ctrl_cmd": true,
-            "alt_opt": true,
+            "shift": false,
+            "ctrl_cmd": false,
+            "alt_opt": false,
             "meta_ctrl": false,
             "result": "popout-window"
           },

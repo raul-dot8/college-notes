@@ -16,3 +16,9 @@ Fluorine is a very pale yellow gas.
 Chlorine is a very pale green gas.
 Bromine is a volatile dark red liquid.
 Iodine is a shiny black solid which sublimes to form a purple vapour.
+
+|          | In water     | In hexane  |
+| -------- | ------------ | ---------- |
+| Chlorine | Pale green   | Dark green |
+| Bromine  | Pale red     | Dark red   |
+| Iodine   | Orange/brown | Purple     |

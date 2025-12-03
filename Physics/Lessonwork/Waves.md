@@ -1,5 +1,5 @@
 # What is a wave?
-A wave is a transfer of energy without a net transfer of mass. 
+A wave is a transfer of energy without a net transfer of mass. Ordinary waves are progressive.
 # Types of waves
 ## Transverse
 The direction of oscillation (of the particles or the fields) is perpendicular to the direction of the propagation of the net energy transfer.
@@ -25,19 +25,27 @@ Waves have 5 key properties:
 - Polarisation
 - Phase
 
-# Polarisation
-## Plane polarised wave
+## Polarisation
+### Plane polarised wave
 A plane polarised wave is a wave that only oscillates in one direction and propagates perpendicularly.
 These must be **transverse** and **of one polarisation angle**.
-## Unpolarised waves
+### Unpolarised waves
 Unpolarised waves are comprised of many different waves of different polarisations.
-# Antennas
+## Antennas
 When moving a lot of electrons back and forth through a wire, they will create a magnetic field, which means that there is inherently an electric field, which can then be picked up by a wire in the same polarisation.
 
-# Polarising Filters
+## Polarising Filters
 Light of one polarisation is completely blocked by another polarising filter at 90$\degree$ to it. 
 Red light is 700nm, and violet light is at 400nm. This means that the polarising filter's bars would need to be very close to polarise/block this light.
 
-# Phase
+## Phase
 Phase is the difference between points on waves.
 ![[Waves 2025-11-26 14.01.42.excalidraw]]
+## Interference
+Waves of the same frequency, wave-speed, and wavelength etc., are called coherent. Amplitude does not need to be the same to be coherent.
+When coherent waves cross, they do NOT collide. This is because there is not real permanent effect, like in a collision in momentum.
+The principle of superposition is present at the intersection point. This signifies that the displacement of the waves is summed, as the waves are superposed[^1] on each other.
+![[Waves 2025-12-03 13.15.18.excalidraw|1000]]
+
+
+[^1]: You must NOT write **superimpose**. You will be awarded 0 marks.
