@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eb9c52974c9daab6",
+        "id": "eeee8f6328041d18",
         "type": "tabs",
         "children": [
           {
-            "id": "68b2a01681bfe51a",
+            "id": "7651930b69aad182",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Lessonwork/Waves.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Waves"
+              "title": "New tab"
             }
           }
         ]
@@ -206,10 +202,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68b2a01681bfe51a",
+  "active": "7651930b69aad182",
   "lastOpenFiles": [
-    "Excalidraw/Waves 2025-12-03 13.15.18.excalidraw.md",
+    "Physics/SCPEDU/Y1/3/Superposition.md",
+    "Excalidraw/Superposition 2025-12-05 11.01.42.excalidraw.md",
+    "Physics/SCPEDU/Y1/3/Wave Properties.md",
+    "Physics/Double-slit demo (640nm laser).md",
+    "Excalidraw/Double-slit demo (640nm laser) 2025-12-05 11.39.03.excalidraw.md",
+    "Physics/Checklist of Success.md",
+    "Pasted Image 20251205114552_882.png",
+    "20251205_113148.jpg",
+    "Pasted Image 20251205111648_166.png",
     "Physics/Lessonwork/Waves.md",
+    "Excalidraw/Waves 2025-12-03 13.15.18.excalidraw.md",
     "Pasted Image 20251203132810_673.png",
     "Pasted Image 20251203132639_162.png",
     "Pasted Image 20251203132156_573.png",
@@ -220,7 +225,6 @@
     "Chemistry/Lessonwork/Halogens.md",
     "Chemistry/Lessonwork/Electron Configuration.md",
     "Untitled.md",
-    "Physics/SCPEDU/Y1/3/Wave Properties.md",
     "Excalidraw/Wave Properties 2025-11-28 11.36.16.excalidraw.md",
     "Physics/Lessonwork/Electromagnetic waves (Practical).md",
     "Physics/SCPEDU/Y1/3",
@@ -234,16 +238,11 @@
     "Physics/Lessonwork/Momentum, Collisions, and Explosions.md",
     "Physics/Lessonwork/Materials.md",
     "Physics/Lessonwork/Energy Formulae.md",
-    "conflict-files-obsidian-git.md",
-    "Physics/Homework/2025.10.20 1.1.4 Accelerated Linear Motion.md",
-    "Chemistry/Lessonwork/Titration Calculation Practice.md",
-    "Chemistry/Lessonwork/Redox Reactions.md",
     "New Text Document.txt",
     "1.1-Atomic-Structure-Ionisation-Energy-across-Periods.png",
     "Further Maths/Lessonwork",
     "Pasted Image 20251022091537_581.png",
     "Pasted image 20251022091402.png",
-    "Pasted image 20251021131100.png",
     "Physics/Homework",
     "Physics/Lessonwork/Untitled",
     "Physics/Lessonwork",
