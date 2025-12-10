@@ -46,6 +46,9 @@ Waves of the same frequency, wave-speed, and wavelength etc., are called coheren
 When coherent waves cross, they do NOT collide. This is because there is not real permanent effect, like in a collision in momentum.
 The principle of superposition is present at the intersection point. This signifies that the displacement of the waves is summed, as the waves are superposed[^1] on each other.
 ![[Waves 2025-12-03 13.15.18.excalidraw|1000]]
+# Young's Double-slit formula
+To find $\lambda$ in a two-source experiment we COULD use $\lambda = \sqrt{ y^2 +(x+w)^2} - \sqrt{ y^2 + (x-w)^2 }$  but it is lengthy and hard to rearrange for $y$. To do this in a better way:
 
+![[Waves 2025-12-09 14.56.29.excalidraw]]
 
 [^1]: You must NOT write **superimpose**. You will be awarded 0 marks.

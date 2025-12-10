@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eeee8f6328041d18",
+        "id": "836a6443261d1711",
         "type": "tabs",
         "children": [
           {
-            "id": "7651930b69aad182",
+            "id": "35b8b5b2ec556142",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Lessonwork/Waves.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Waves"
             }
           }
         ]
@@ -202,18 +206,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7651930b69aad182",
+  "active": "35b8b5b2ec556142",
   "lastOpenFiles": [
+    "Excalidraw/Waves 2025-12-09 14.56.29.excalidraw.md",
+    "Physics/Lessonwork/Waves.md",
+    "Pasted Image 20251205114552_882.png",
+    "1.1-Atomic-Structure-Ionisation-Energy-across-Periods.png",
     "Physics/SCPEDU/Y1/3/Superposition.md",
     "Excalidraw/Superposition 2025-12-05 11.01.42.excalidraw.md",
     "Physics/SCPEDU/Y1/3/Wave Properties.md",
     "Physics/Double-slit demo (640nm laser).md",
     "Excalidraw/Double-slit demo (640nm laser) 2025-12-05 11.39.03.excalidraw.md",
     "Physics/Checklist of Success.md",
-    "Pasted Image 20251205114552_882.png",
     "20251205_113148.jpg",
     "Pasted Image 20251205111648_166.png",
-    "Physics/Lessonwork/Waves.md",
     "Excalidraw/Waves 2025-12-03 13.15.18.excalidraw.md",
     "Pasted Image 20251203132810_673.png",
     "Pasted Image 20251203132639_162.png",
@@ -237,9 +243,7 @@
     "Physics/Lessonwork/Newton's Laws.md",
     "Physics/Lessonwork/Momentum, Collisions, and Explosions.md",
     "Physics/Lessonwork/Materials.md",
-    "Physics/Lessonwork/Energy Formulae.md",
     "New Text Document.txt",
-    "1.1-Atomic-Structure-Ionisation-Energy-across-Periods.png",
     "Further Maths/Lessonwork",
     "Pasted Image 20251022091537_581.png",
     "Pasted image 20251022091402.png",
