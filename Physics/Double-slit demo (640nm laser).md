@@ -1,1 +1,2 @@
 ![[Double-slit demo (640nm laser) 2025-12-05 11.39.03.excalidraw]]
+The points of light on the wall are described as a central bright maxima (for the central spot), and then evenly spaced equal-width maxima going outwards from that point.

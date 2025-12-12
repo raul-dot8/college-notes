@@ -50,5 +50,16 @@ The principle of superposition is present at the intersection point. This signif
 To find $\lambda$ in a two-source experiment we COULD use $\lambda = \sqrt{ y^2 +(x+w)^2} - \sqrt{ y^2 + (x-w)^2 }$  but it is lengthy and hard to rearrange for $y$. To do this in a better way:
 
 ![[Waves 2025-12-09 14.56.29.excalidraw]]
+Using this formula, we can predict and calculate what happens when we change any of those variables, and it is easily visible on https://scpedu.barton.ac.uk/doubleslit2.htm with tweaks.
+# Diffraction and slit size
+Diffraction is caused by the edges that a wave passes by. Slit size affects the pattern as seen in the formula. The optimum gap of a slit (optimising the effect of diffraction and the amount of energy that comes through the gap) is one wavelength. This creates ideal circular patterns, seeing as the waves diffracted through a gap become more circular with a smaller gap, until the point where energy is reduced.
+
+## White light
+When white light is shone through the double slit, it creates a rainbow pattern, with a central white.
+![[image-210.png]]
+![[Figure_28_04_01a-1.jpg]]
+
+The light in the centre is white because the path difference for the wavelengths is zero, and all the light arrives in the same place. At the next maxima, the colours separate as, in accordance with the formula, differing $\lambda$ values cause different $w$ values. Further out into the second and third-order maxima, ($n=2,~ ~n=3$), the colours overlap as they are shifted further and further apart.
+The blue wavelengths are on the inside as they have shorter wavelengths than red, meaning they are shifted less.
 
 [^1]: You must NOT write **superimpose**. You will be awarded 0 marks.
