@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Lessonwork/Waves.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Waves"
+              "title": "README"
             }
           }
         ]
@@ -206,47 +206,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "a70e71d3452d9794",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c769b39977523788",
-        "type": "window",
-        "children": [
-          {
-            "id": "835c02439f236862",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "cb949b5f545c198a",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Waves 2025-12-16 15.14.12.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Waves 2025-12-16 15.14.12.excalidraw"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 56,
-        "width": 960,
-        "height": 801,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "97544458e340cd27",
   "lastOpenFiles": [
-    "Excalidraw/Waves 2025-12-16 15.14.12.excalidraw.md",
+    "Physics/SCPEDU/Y1/3/Wave Properties.md",
+    "Physics/SCPEDU/Y1/3/Superposition.md",
+    "Physics/SCPEDU/Y1/3/PPQ/Diffraction.md",
     "Physics/Lessonwork/Waves.md",
+    "Physics/SCPEDU/Y1/3/PPQ",
+    "Physics/SCPEDU/PPQ",
+    "Excalidraw/Waves 2025-12-16 15.14.12.excalidraw.md",
     "README.md",
     "Chemistry/Lessonwork/Enthalpy.md",
     "Pasted image 20251210151446.png",
@@ -258,9 +226,7 @@
     "Excalidraw/Waves 2025-12-09 14.56.29.excalidraw.md",
     "Pasted Image 20251205114552_882.png",
     "1.1-Atomic-Structure-Ionisation-Energy-across-Periods.png",
-    "Physics/SCPEDU/Y1/3/Superposition.md",
     "Excalidraw/Superposition 2025-12-05 11.01.42.excalidraw.md",
-    "Physics/SCPEDU/Y1/3/Wave Properties.md",
     "Excalidraw/Double-slit demo (640nm laser) 2025-12-05 11.39.03.excalidraw.md",
     "Physics/Checklist of Success.md",
     "20251205_113148.jpg",
@@ -281,15 +247,12 @@
     "Chemistry/Periodicity Written Practice.md",
     "Excalidraw/Waves 2025-11-26 14.01.42.excalidraw.md",
     "Excalidraw/Waves 2025-11-25 15.12.10.excalidraw.md",
-    "Physics/Lessonwork/Rules of Uncertainty.md",
     "New Text Document.txt",
     "Further Maths/Lessonwork",
     "Physics/Homework",
     "Physics/Lessonwork/Untitled",
     "Physics/Lessonwork",
     "Physics/SCPEDU/Excercises",
-    "Further Maths",
-    "Physics/SCPEDU/Y1/4",
-    "Physics/SCPEDU/Y1"
+    "Further Maths"
   ]
 }
