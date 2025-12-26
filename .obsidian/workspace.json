@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Physics/Lessonwork/Waves.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Waves"
             }
           }
         ]
@@ -206,8 +206,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97544458e340cd27",
+  "active": "005bd98094df2319",
   "lastOpenFiles": [
+    "README.md",
     "Physics/SCPEDU/Y1/3/Wave Properties.md",
     "Physics/SCPEDU/Y1/3/Superposition.md",
     "Physics/SCPEDU/Y1/3/PPQ/Diffraction.md",
@@ -215,7 +216,6 @@
     "Physics/SCPEDU/Y1/3/PPQ",
     "Physics/SCPEDU/PPQ",
     "Excalidraw/Waves 2025-12-16 15.14.12.excalidraw.md",
-    "README.md",
     "Chemistry/Lessonwork/Enthalpy.md",
     "Pasted image 20251210151446.png",
     "Maths/Lessonwork/113 - Polynomials 2.md",
