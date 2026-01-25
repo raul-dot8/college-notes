@@ -5,5 +5,10 @@ Requires Obsidian with Excalidraw and TikZJax.
 
 # Flashcards
 ## Physics
-thanks Gurman
-https://quizlet.com/gb/1084549116/physics-a-level-aqa-flash-cards/?funnelUUID=aecedc71-417d-4925-9d1d-f62a634eae0a
+https://quizlet.com/gb/1084549116/physics-a-level-aqa-flash-cards/
+
+## Chemistry (Terminology only)
+https://quizlet.com/gb/1132946363/chemistry-terminology-flash-cards/
+
+## Maths (Statistics only)
+https://quizlet.com/gb/1131749933/aqa-a-level-mathematics-statistics-flash-cards/
